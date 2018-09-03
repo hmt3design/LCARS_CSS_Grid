@@ -1,0 +1,16 @@
+{
+  "name": "LCARS",
+  "version": "0.0.1",
+  "description": "Generated SVG code for LCARS CSS Grid",
+  "main": "index.html",
+  "scripts": {
+    "sprite": "spritesh --input svg/svg-optim --output svg/sprites.svg --prefix lcars-svg-",
+    "presprite": "svgo -f svg/svg-raw -o svg/svg-optim"
+  },
+  "author": "Harry Thomas - hmt3design.com",
+  "license": "ISC",
+  "devDependencies": {
+    "spritesh": "^1.2.1",
+    "svgo": "^1.0.5"
+  }
+}
