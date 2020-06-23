@@ -9,3 +9,7 @@ There is still some work to be done on device sizing, and eventually I hope to m
 <strong>Licensing:</strong>
 
 You are free to use this repository as you desire. No attribution is necessary. Star Trek, LCARS and other associated trademarks are the property of CBS/Paramount.
+
+<strong>Illustrator source material</strong>
+
+If you want the Adobe Illustrator template I created (which has a lot more elements of the LCARS interface, you can go to my repository at https://github.com/hmt3design/Illustrator-templates
